@@ -1,0 +1,12 @@
+/home/asus/Desktop/browser-engine/target/rls/debug/deps/wayland_client-31315ef94d255ea9.rmeta: /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/lib.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/display.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/event_queue.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/env.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/egl.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/cursor.rs /home/asus/Desktop/browser-engine/target/rls/debug/build/wayland-client-bff663d0f02346e7/out/wayland_interfaces.rs /home/asus/Desktop/browser-engine/target/rls/debug/build/wayland-client-bff663d0f02346e7/out/wayland_api.rs
+
+/home/asus/Desktop/browser-engine/target/rls/debug/deps/wayland_client-31315ef94d255ea9.d: /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/lib.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/display.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/event_queue.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/env.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/egl.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/cursor.rs /home/asus/Desktop/browser-engine/target/rls/debug/build/wayland-client-bff663d0f02346e7/out/wayland_interfaces.rs /home/asus/Desktop/browser-engine/target/rls/debug/build/wayland-client-bff663d0f02346e7/out/wayland_api.rs
+
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/lib.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/display.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/event_queue.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/env.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/egl.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.7.8/src/cursor.rs:
+/home/asus/Desktop/browser-engine/target/rls/debug/build/wayland-client-bff663d0f02346e7/out/wayland_interfaces.rs:
+/home/asus/Desktop/browser-engine/target/rls/debug/build/wayland-client-bff663d0f02346e7/out/wayland_api.rs:

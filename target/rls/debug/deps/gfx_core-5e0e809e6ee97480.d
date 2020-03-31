@@ -1,0 +1,16 @@
+/home/asus/Desktop/browser-engine/target/rls/debug/deps/gfx_core-5e0e809e6ee97480.rmeta: /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/lib.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/buffer.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/command.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/dummy.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/factory.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/format.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/handle.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/mapping.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/memory.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/pso.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/shade.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/texture.rs
+
+/home/asus/Desktop/browser-engine/target/rls/debug/deps/gfx_core-5e0e809e6ee97480.d: /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/lib.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/buffer.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/command.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/dummy.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/factory.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/format.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/handle.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/mapping.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/memory.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/pso.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/shade.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/texture.rs
+
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/lib.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/buffer.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/command.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/dummy.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/factory.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/format.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/handle.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/mapping.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/memory.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/pso.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/shade.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.6.1/src/texture.rs:

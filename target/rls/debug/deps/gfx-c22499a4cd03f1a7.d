@@ -1,0 +1,17 @@
+/home/asus/Desktop/browser-engine/target/rls/debug/deps/gfx-c22499a4cd03f1a7.rmeta: /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/lib.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/encoder.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/factory.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/slice.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/mod.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/buffer.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/resource.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/target.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/bundle.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/shade.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/mod.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/pso.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/structure.rs
+
+/home/asus/Desktop/browser-engine/target/rls/debug/deps/gfx-c22499a4cd03f1a7.d: /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/lib.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/encoder.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/factory.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/slice.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/mod.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/buffer.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/resource.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/target.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/bundle.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/shade.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/mod.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/pso.rs /home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/structure.rs
+
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/lib.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/encoder.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/factory.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/slice.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/mod.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/buffer.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/resource.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/target.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/pso/bundle.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/shade.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/mod.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/pso.rs:
+/home/asus/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.14.1/src/macros/structure.rs:
